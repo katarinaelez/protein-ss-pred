@@ -97,91 +97,91 @@ python src/svm-train.py data/training/list.txt data/training/pssm data/training/
             <td>SEN_H</td>
             <td>0.86±0.01</td>
             <td>0.83</td>
-            <td></td>
+            <td>0.80±0.01</td>
             <td>0.72</td>
         </tr>
         <tr>
             <td>SEN_E</td>
             <td>0.62±0.01</td>
             <td>0.60</td>
-            <td></td>
+            <td>0.58±0.01</td>
             <td>0.62</td>
         </tr>
         <tr>
             <td>SEN_C</td>
             <td>0.42±0.01</td>
             <td>0.42</td>
-            <td></td>
+            <td>0.82±0.00</td>
             <td>0.85</td>
         </tr>
         <tr>
             <td>PPV_H</td>
             <td>0.58±0.01</td>
             <td>0.60</td>
-            <td></td>
+            <td>0.82±0.01</td>
             <td>0.85</td>
         </tr>
         <tr>
             <td>PPV_E</td>
             <td>0.54±0.01</td>
             <td>0.58</td>
-            <td></td>
+            <td>0.75±0.01</td>
             <td>0.80</td>
         </tr>
         <tr>
             <td>PPV_C</td>
             <td>0.80±0.01</td>
             <td>0.73</td>
-            <td></td>
+            <td>0.72±0.00</td>
             <td>0.65</td>
         </tr>
         <tr>
             <td>MCC_H</td>
             <td>0.50±0.01</td>
             <td>0.46</td>
-            <td></td>
+            <td>0.71±0.01</td>
             <td>0.67</td>
         </tr>
         <tr>
             <td>MCC_E</td>
             <td>0.45±0.01</td>
             <td>0.46</td>
-            <td></td>
+            <td>0.58±0.01</td>
             <td>0.63</td>
         </tr>
         <tr>
             <td>MCC_C</td>
             <td>0.40±0.01</td>
             <td>0.39</td>
-            <td></td>
+            <td>0.58±0.01</td>
             <td>0.56</td>
         </tr>
         <tr>
             <td>SOV_H</td>
             <td>65.48±0.99</td>
             <td>62.70</td>
-            <td></td>
+            <td>76.39±0.97</td>
             <td>68.64</td>
         </tr>
         <tr>
             <td>SOV_E</td>
             <td>58.64±1.35</td>
             <td>63.18</td>
-            <td></td>
+            <td>59.20±2.18</td>
             <td>67.19</td>
         </tr>
         <tr>
             <td>SOV_C</td>
             <td>43.09±0.69</td>
             <td>45.57</td>
-            <td></td>
+            <td>70.18±0.93</td>
             <td>70.93</td>
         </tr>
         <tr>
             <td>ACC</td>
             <td>0.62±0.00</td>
             <td>0.62</td>
-            <td></td>
+            <td>0.76±0.00</td>
             <td>0.75</td>
         </tr>
     </tbody>
